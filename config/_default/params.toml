@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "Case Western Reserve University"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Case Western Reserve University"
 
 ############################
 ## Site Features
