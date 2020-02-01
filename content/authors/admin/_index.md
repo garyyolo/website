@@ -14,16 +14,16 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
+email: "jiawei.liang@case.edu"
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Gary Liang
 organizations:
-- name: Stanford University
+- name: Case Western Reserve University
   url: ""
-role: Professor of Artificial Intelligence
+role: Data Analyst/Business Intelligence Analyst
 social:
 - icon: envelope
   icon_pack: fas
