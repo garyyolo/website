@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -24,18 +24,18 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2019-05-17"
   date_end = "2019-07-17"
-  description = """
-  *	Customer churning rate prediction
-  **  Selected variables and adjusted on optimized cut-off value with Logistic Regression by scripting R. 
-  **  Handled imbalanced dataset in classification problems with ROSE, SMOTE method in building training datasets.
-  **  Predicted churning rates, compared the F1 score and ROC, then determined the best sampling method. 
-  **  Tried the C-classification SVM model and adjusted the cost, gamma, and class weights to compare predictive accuracy. 
-  *	Forecasting number of customers 
-  **  Collected the number of customers in last year from kiosks queueing system and screened out counter transactions.
-  **  Applied ARIMA, built model after seasonal differencing and non-seasonal differencing with R studio.
-  **  Forecasted the number of incoming customers for branch offices in the next week, and evaluated the accuracy of the model by comparing to reality.
-  **  According to the prediction, adjusted on workforce assignment and reduced customers’ queuing time.
-    """
+  description = '''
+  *	Customer churning rate prediction\
+    Selected variables and adjusted on optimized cut-off value with Logistic Regression by scripting R.\
+    Handled imbalanced dataset in classification problems with ROSE, SMOTE method in building training datasets.\
+    Predicted churning rates, compared the F1 score and ROC, then determined the best sampling method. \
+    Tried the C-classification SVM model and adjusted the cost, gamma, and class weights to compare predictive accuracy.\ 
+  *	Forecasting number of customers\
+    Collected the number of customers in last year from kiosks queueing system and screened out counter transactions.\
+    Applied ARIMA, built model after seasonal differencing and non-seasonal differencing with R studio.\
+    Forecasted the number of incoming customers for branch offices in the next week, and evaluated the accuracy of the model by comparing to reality.\
+    According to the prediction, adjusted on workforce assignment and reduced customers’ queuing time.\
+'''
 
 [[experience]]
   title = "SAP Consultant, Project Manager"
