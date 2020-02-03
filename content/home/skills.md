@@ -47,7 +47,7 @@ subtitle = ""
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
-  name = "sAP ERP"
+  name = "SAP ERP"
   #description = "100%" 
   
 +++
