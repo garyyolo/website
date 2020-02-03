@@ -18,18 +18,36 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  #description = "70%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  #description = "90%"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  #description = "90%"
+
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Adobe Analytics"
+  #description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "BI tools"
+  #description = "100%" 
 
+[[feature]]
+  icon = "cogs"
+  icon_pack = "fas"
+  name = "sAP ERP"
+  #description = "100%" 
+  
 +++
