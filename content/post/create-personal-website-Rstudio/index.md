@@ -5,7 +5,7 @@ image:
   caption: 'Image credit: [**George Cushen**](https://github.com/gcushen/hugo-academic)'
   placement: 3
 math: true
-title: Create personal website with R studio
+title: Create personal websites with R studio
 tags: [Personal Website,Netlify,Academic]
 ---
 
