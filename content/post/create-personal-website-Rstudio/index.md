@@ -31,6 +31,7 @@ As the instruction, after running the following in the Git Bash Terminal, a prof
 ```bash
 mkdir ~/Desktop/projects
 ```
+
 Then, we need to create a new repository on Github webpage to host all source files of the personal websites.
 ![jpg](./index_1.0.jpg)
 I named the repository as 'website' and 'Garyyolo personal website source files'
@@ -92,7 +93,8 @@ git add <foldername>
 ```
 After doing this, you can see all the files in the repository appear under the Git tab in Rstudio, and you can push them to the Github.
 
-##Deploy website using Netlify
+## Deploy website using Netlify
+
 Sign up with Github account in [Netlify](https://app.netlify.com) for free website services. Netlify can automatically read data from Github to generate websites. Therefore, we need to link your personal website repository with Netlify. Select **New site from Git -> Continuous Deployment: GitHub**, and select your GitHub repository with website files. Then we need to adjust the environment settings of the Netlify as the following guidance.
 ![jpg](./index_1.4.jpg)
 You can check your Hugo version by running the following code in the Rstudio console.
