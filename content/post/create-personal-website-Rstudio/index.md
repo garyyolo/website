@@ -5,8 +5,8 @@ image:
   caption: 'Image credit: [**George Cushen**](https://github.com/gcushen/hugo-academic)'
   placement: 3
 math: true
-title: Create personal websites with R studio
-tags: [Personal Website,Netlify,Academic]
+title: Create personal websites with Rstudio
+tags: [Personal Website,Netlify,Academic,Rstudio]
 ---
 
 Have you ever thought about creating a personal website but gave up soon due to little knowledge of HTML/CSS, just like me? You might have tried creating blogging sites on some blog platforms but complained about the restrictions on the design. You might also see some Wix or WordPress ads on social media but hesitated to build those high-level websites. Here I would like to share with you another way to create personal websites. It does not require knowledge in website scripting languages, it offers numerous themes for modification, and it is free. 
