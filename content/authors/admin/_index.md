@@ -35,7 +35,7 @@ social:
   link: https://github.com/garyyolo
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jiawei-liang-b0b827a9
+  link: https://www.linkedin.com/in/jiawei-l-b0b827a9/
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/liang_jiawei/
