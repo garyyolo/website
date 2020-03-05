@@ -48,7 +48,7 @@ superuser: true
 #- Visitors
 ---
 
-I am a learner in data science and determined to become an applied data analyst for now. I enjoy contributing my passion and expertise in providing novel solutions and helping others reach their goals. It is probably a side effect of being a consultant for several years. 
+I am a learner in data science and determined to become an applied data analyst for now. I enjoy contributing my passion and expertise towards providing novel solutions and helping others reach their goals. It is probably a side effect of being a consultant for several years. 
 
 On a personal level, I am a quick learner with a strong motivation to face challenges. On this point, analysts and consultants are similar. Both works require patience and the ability to think independently and ask questions. In my spare time, I enjoy working out and cooking to balance my work and life.
 
