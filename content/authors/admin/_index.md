@@ -18,6 +18,7 @@ interests:
 - Data Analytics
 - Machine Learning
 - Business Intelligence
+- Robotic process automation
 name: Gary Liang
 organizations:
 - name:
